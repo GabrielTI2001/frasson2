@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-@b4l*ya+3=jn%5%rgnvd(er6^q8t$v7g469uouh*lu7s!9vnpk
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['www.frassonconsultoria.com.br', 'frassonconsultoria.com.br']
+ALLOWED_HOSTS = ['www.frassonconsultoria.com.br', 'frassonconsultoria.com.br', 'localhost']
 
 
 # Application definition
