@@ -837,7 +837,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #facts .counters span {
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
-  font-size: 48px;
+  font-size: 28px !important;
   display: block;
   color: #18d26e;
 }
