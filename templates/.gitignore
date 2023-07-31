@@ -1,0 +1,9 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+staticfiles/
+db.sqlite3
+db.sqlite3-journal
+env/
+frasson/.env
